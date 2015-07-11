@@ -1,0 +1,11 @@
+{
+  "name": "for-student",
+  "version": "0.0.1",
+  "private": true,
+  "main": "server.js",
+  "dependencies": {
+    "jsonwebtoken": "^5.0.2",
+    "moment": "^2.10.3",
+    "morgan": "^1.6.0"
+  }
+}
