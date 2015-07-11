@@ -1,3 +1,8 @@
+/* 
+* Author : Mostapha ABDI
+* Email: abdimostapha@gmail.com
+* Version: V1.0
+*/
 var User = require('../models/user');
 var jwt = require('jsonwebtoken'); 
 var config     = require('../config/config');
